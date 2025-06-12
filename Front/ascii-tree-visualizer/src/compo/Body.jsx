@@ -4,7 +4,7 @@ function Body() {
   return (
     <div>
       <h1 className="font-[Tienne] text-5xl py-12 text-[#3be500]">
-        ASCII Three Visualizer
+        ASCII Tree Visualizer
       </h1>
       <div className="flex justify-center items-center">
         <video
