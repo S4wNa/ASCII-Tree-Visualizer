@@ -42,7 +42,7 @@ function Download() {
 
           <div className="text-center flex flex-col justify-center items-center w-full md:w-auto">
             <a
-              href="/ASCII Tree Visualizer_0.1.0_x64_en-US.msi"
+              href="https://github.com/S4wNa/ASCII-Tree-Visualizer/releases/download/v0.1.0/ASCII.Tree.Visualizer_0.1.0_x64_en-US.msi"
               download="ASCII-Tree-Visualizer.msi"
               className="flex justify-center items-center gap-2 transition-all duration-300 hover:scale-110 cursor-pointer rounded-md bg-[#33960f] hover:bg-[#194608] text-white px-6 py-3 md:px-8 md:py-4 lg:px-10 lg:py-5 text-base md:text-lg lg:text-xl font-semibold shadow-lg hover:shadow-xl"
             >

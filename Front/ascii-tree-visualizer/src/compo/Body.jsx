@@ -12,7 +12,10 @@ function Body() {
           width="640"
           className="rounded-lg md:w-[800px] md:h-[350px] "
         >
-          <source src="/video.mp4" type="video/mp4" />
+          <source
+            src="https://github.com/S4wNa/ASCII-Tree-Visualizer/releases/download/video/video.mp4"
+            type="video/mp4"
+          />
         </video>
       </div>
       <div className="bg-red-100 w-40 flex jsutify-center items-center"></div>
