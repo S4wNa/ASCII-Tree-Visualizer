@@ -35,7 +35,7 @@ function Download() {
               </p>
               <p className="flex items-center justify-center md:justify-start gap-2">
                 <span className="text-[#3be500] text-lg md:text-xl">✓</span>
-                Size: 1 Ko
+                Size: 4 Mo
               </p>
             </div>
           </div>
